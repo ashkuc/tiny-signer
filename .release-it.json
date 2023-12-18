@@ -1,0 +1,3 @@
+{
+  "after:bump": "yarn build"
+}
