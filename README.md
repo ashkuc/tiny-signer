@@ -1,4 +1,4 @@
-# Tiny (polkadot) Signer
+# Tiny (Polkadot) Signer
 
 ## Description
 
